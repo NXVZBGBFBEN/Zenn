@@ -3,6 +3,7 @@ title: "祇園祭WebサイトのDBについて"
 emoji: "🔥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "prisma", "postgresql", "excel", "powershell"]
+publication_name: nitkc_proken
 published: true
 ---
 
