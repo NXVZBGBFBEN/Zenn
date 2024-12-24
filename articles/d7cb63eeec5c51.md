@@ -9,7 +9,8 @@ published: true
 
 ## なにこれ
 この記事は [木更津高専 Advent Calender 2023](https://qiita.com/advent-calendar/2023/nit_kisarazu) 参加記事です．
-前日の記事は [@naotiki](https://qiita.com/naotiki) さんによる [学園祭の企画管理システム(一部)と認証システムを作った話](https://qiita.com/naotiki/items/6506ef15a50f1c49b981) でした．
+前日の記事は [@naotiki](https://qiita.com/naotiki) さんによる [学園祭の企画管理システム(一部)と認証システムを作った話](https://qiita.com/naotiki/items/6506ef15a50f1c49b981) でした．  
+翌日の記事は [@nairoki](https://qiita.com/nairoki) さんによる [祇園祭Webサイトのフロントについて](https://zenn.dev/nairoki/articles/ca5b24ef6b4dd8) です．
 投稿が遅れてしまったので，シリーズ2として [@toreis](https://qiita.com/toreis) さんによる [AtCoder入灰記事](https://qiita.com/toreis/items/b4d08ebf1ce1c3d8965f) が投稿されています．ありがとうございます．
 
 今年度，所属しているプログラミング研究同好会(プロ研)のプロジェクトとして，学園祭(祇園祭)のWebサイトを制作しました．
